@@ -1,15 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "torch-word-emb"
-version = "1.1-4"
+version = "1.1-5"
 -- LuaDist source
 source = {
-  tag = "1.1-4",
+  tag = "1.1-5",
   url = "git://github.com/LuaDist-testing/torch-word-emb.git"
 }
 -- Original source
 -- source = {
---    url = "git://github.com/iamalbert/torch-word-emb"
+--    url = "git://github.com/iamalbert/torch-word-emb",
+--    tag = "v1.1-5"
 -- }
 description = {
    summary = "load word2vec or glove word vectors to torch.Tensor",
